@@ -1,6 +1,6 @@
 # Dynamic Type LINQ Query
 
-Sample project demonstrating how to use `IDynamicMetaObjectProvider` and `DynamicMetaObject` to decorate a concrete C# type with **dynamic dispatch behaviour**, enabling both property-name and indexer-style access inside LINQ expressions.
+Sample project demonstrating how to use `IDynamicMetaObjectProvider` and `DynamicMetaObject` to decorate a concrete C# type with **dynamic dispatch behavior**, enabling both property-name and indexer-style access inside LINQ expressions.
 
 Created as an answer to the Stack Overflow question:
 [How to force "dynamic" behavior in a LINQ expression with DynamicObject?](https://stackoverflow.com/questions/57336485/how-to-force-dynamic-behavior-in-a-linq-expression-with-dynamicobject)
